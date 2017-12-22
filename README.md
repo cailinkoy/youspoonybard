@@ -13,4 +13,5 @@ And catty things like cats and gamey things like games.
 <a href="http://sassydove.com/">sassydove.com</a><br /></P>
 <p>No longer live but feel free to webarchive:<br />
 churchlafemme.com<br />
+  juistfw.com<br />
 thebeautybunny.com<br /></p>
