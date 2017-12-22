@@ -10,7 +10,8 @@ And catty things like cats and gamey things like games.
 <p>Here are some sites I've worked on:<br />
   <a href="http://www.continentalmixers.com/">continentalmixers.com</a><br />
   <a href="http://www.corelightning.com">corelightning.com</a><br />
-<a href="http://sassydove.com/">sassydove.com</a><br /></P>
+<a href="http://sassydove.com/">sassydove.com</a><br />
+  <a href="https://www.affiliatedinternalmedicine.com/">affiliatedinternalmedicine.com</a><br /></P>
 <p>No longer live but feel free to webarchive:<br />
 churchlafemme.com<br />
   juistfw.com<br />
