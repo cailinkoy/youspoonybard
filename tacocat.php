@@ -11,6 +11,6 @@ class Palindrome
         }
     }
 }
-
+$word = "tacocat";
 echo Palindrome::isPalindrome($word);
 ?>
